@@ -1,4 +1,6 @@
 # Sales Analytics Dashboard
+## Dashboard Preview
+![Dashboard Preview](Sales_Analytics_Dashboard.png)
 
 ## Project Overview
 This project is an Excel-based Sales Analytics Dashboard created to analyze sales performance using Pivot Tables, KPI Cards, and Charts.
